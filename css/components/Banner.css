@@ -1,0 +1,34 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(../../images/banner.jpg);
+background-size: cover;
+
+	background-position: center;
+	font-weight: bold;
+	color: white;
+	padding: 130px 0px;
+    }
+
+    .banner h1 {
+    font-size: 50px;
+    font-weight: bold; 
+    border: 8px solid #b81414;
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    display: inline-block; 
+    background-color: rgba(255, 255, 255, 0.5); 
+}
+
+    .banner h2 {
+    	font-size: 30px;
+    	font-weight: lighter;
+    	opacity: 0.9;
+    	margin-bottom: 40px;
+ }
+     .banner h3 {
+     	font-size: 20px;
+    	font-weight: lighter;
+    	opacity: 0.8;
+    	margin-bottom: 40px;
+
+
+     }
